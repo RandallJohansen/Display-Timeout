@@ -1,5 +1,5 @@
 # Display-Timeout
-toggle display timeout between hardcoded value and disable timeout
+toggle display timeout between hardcoded value and disabling timeout
 
 click anywhere in form window to toggle
 
